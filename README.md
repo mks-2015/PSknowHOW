@@ -7,9 +7,11 @@ Extraordinarily useful for businesses implementing digital business transformati
 
 This KPI dashboard connects with all the different tools including Product Management, Design, Technical Quality, Agile Project Management, and Team Operations – and has a flexible architecture to capture engagement metrics and health for a program.  It consolidates the information in one place. By consolidating and visualizing the data, team members, program leaders and executives get a single source of truth and understanding of the program health.
 
+For Detailed product documentation and feature list please refer to the link ->
+https://psknowhow.atlassian.net/wiki/spaces/PSKNOWHOW/pages/1212417/About+PSknowHOW
 
-For installation instruction please refer to the link -> https://psknowhow.atlassian.net/wiki/spaces/PSKNOWHOW/pages/1966195/KnowHOW+-+Installation+Setup
+For installation instruction please refer to the link -> 
+https://psknowhow.atlassian.net/wiki/spaces/PSKNOWHOW/pages/1966195/KnowHOW+-+Installation+Setup
 
-For Detailed product documentation and feature list please refer to the link -> https://psknowhow.atlassian.net/wiki/spaces/PSKNOWHOW/pages/1212417/About+PSknowHOW
 
 Upcoming  Major Release Updates :

@@ -1,6 +1,6 @@
-# PS KnowHOW
+# PSknowHOW
 
-PS KnowHOW is a measurement framework that delivers an intuitive, visual dashboard to track key performance indicators (KPIs) across entire organizations transformation programs. It empowers teams with the knowledge of HOW work is progressing, areas of health, as well as achievement gaps and areas for improvement.
+PSknowHOW is a measurement framework that delivers an intuitive, visual dashboard to track key performance indicators (KPIs) across entire organizations transformation programs. It empowers teams with the knowledge of HOW work is progressing, areas of health, as well as achievement gaps and areas for improvement.
 
 
 Extraordinarily useful for businesses implementing digital business transformation programs, it should be implemented as part of program startup, and used as a tool for continuous reflection and improvement.
